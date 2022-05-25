@@ -1,7 +1,7 @@
 # Telegram Bot-Api
 
 ## Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ife250-git/telegram-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ife250/telegram-bot)
 
 After Deploying App on Heroku - Setup Webhook
 
